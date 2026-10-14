@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.rewind/
+.demo/
+*.egg-info/
+build/
+dist/
+.DS_Store
+.env
+.env.*
+*.log
+*.diff
+*.patch
+*.patch.json
